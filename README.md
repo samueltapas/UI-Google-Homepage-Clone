@@ -3,7 +3,7 @@
 
 A project with student purposes to aply my knowledge about HTML5 and CSS3
 
-![](../img-preview-readme.png)
+![](/img-preview-readme.png)
 
 ## Installation
 
